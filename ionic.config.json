@@ -1,0 +1,7 @@
+{
+  "name": "foodDistributionApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
