@@ -6,6 +6,14 @@ import { IonicModule } from '@ionic/angular';
   templateUrl: './sign-up.page.html',
   styleUrls: ['./sign-up.page.scss'],
   standalone: true,
-  imports: [IonicModule]
+  imports: [IonicModule] // <-- Agrega esto
 })
-export class SignUpPage {}
+export class SignUpPage 
+{
+
+  constructor() { }
+
+  ngOnInit() {
+  }
+
+}
