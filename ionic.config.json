@@ -1,7 +1,7 @@
 {
-  "name": "foodDistributionApp",
+  "name": "product-admin-ionic",
   "integrations": {
     "capacitor": {}
   },
-  "type": "angular-standalone"
+  "type": "angular"
 }
