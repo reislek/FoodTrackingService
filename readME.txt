@@ -1,6 +1,7 @@
 # Presentado por:
 - Sebastian Manriquez
-- Francisco 
+- Francisco Alfaro
+- David Rojas
 
 # Sistema de Gestión de Productos
 
@@ -80,10 +81,7 @@ Sistema web para la gestión de productos alimenticios, permitiendo registrar, e
 - **Ionic Framework** (v7+)
 - **Angular** (v17+)
 - **TypeScript**
-- **Capacitor** (plugins nativos)
 - **SASS** (estilos)
 - **RxJS** (manejo reactivo)
 - **Angular Router** (navegación)
 - **Bootstrap** (componentes UI)
-- **Jasmine/Karma** (testing)https://whimsical.com/escuelainf-4qgXnPptro4CqvEugsGNNZ
-- **ESLint** (linter)
